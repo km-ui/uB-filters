@@ -1,0 +1,12 @@
+! Title: km-opensubtitles
+! Description: Opensubtitle filters
+! Homepage: https://github.com/km-ui/uB-filters
+! Expires: 1 days
+
+www.opensubtitles.org##div.msg > div > fieldset
+www.opensubtitles.org##h3 > div > p
+www.opensubtitles.org###moviehash > div
+www.opensubtitles.org###moviehash > p
+www.opensubtitles.org##.hint.msg
+www.opensubtitles.org###n3twork
+www.opensubtitles.org##fieldset.intro:nth-of-type(1)

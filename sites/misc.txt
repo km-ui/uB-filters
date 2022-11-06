@@ -1,0 +1,13 @@
+! Title: km-misc
+! Description: misc filters
+! Homepage: https://github.com/km-ui/uB-filters
+! Expires: 1 days
+
+www.last.fm##.auth-dropdown-pro-text.auth-dropdown-menu-item
+www.last.fm##.user-dashboard-history-subscribe-banner-cta
+www.last.fm##.inverted-bg
+
+www.imdb.com##.banner-container
+
+fotka.com##.fotkaLightBoxObscure
+fotka.com###brd_najnowsze

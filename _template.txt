@@ -1,0 +1,5 @@
+! Title: km-site
+! Description: www.site.com
+! Homepage: https://github.com/km-ui/uB-filters
+! Expires: 1 days
+

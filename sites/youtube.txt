@@ -1,0 +1,18 @@
+! Title: km-youtube
+! Description: YT clutter-free
+! Homepage: https://github.com/km-ui/uB-filters
+! Expires: 1 days
+
+! https://www.youtube.com
+!youtube.com##+js(ra, guide-persistent-and-visible)
+!www.youtube.com###guide-button
+!www.youtube.com###guide
+www.youtube.com##[href="/feed/explore"]
+www.youtube.com##ytd-rich-grid-renderer.style-scope
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead:nth-of-type(2)
+www.youtube.com##ytd-continuation-item-renderer
+www.youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer
+www.youtube.com##.ytd-video-secondary-info-renderer.style-scope.sticky
+www.youtube.com###offer-module
+www.youtube.com###comments

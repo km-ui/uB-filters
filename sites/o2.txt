@@ -1,0 +1,9 @@
+! Title: km-o2-mail
+! Description: o2 mail filters
+! Homepage: https://github.com/km-ui/uB-filters
+! Expires: 1 days
+
+poczta.o2.pl##one-login-bar
+poczta.o2.pl##.cuYROd.sc-hjRWVT.sc-EHOje.sc-ifAKCX
+poczta.o2.pl##.NativeLinkGroup
+poczta.o2.pl##promo-panels

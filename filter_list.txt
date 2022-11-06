@@ -1,0 +1,10 @@
+! Title: km-personal-collection
+! Description: Personal collection
+! Homepage: https://github.com/km-ui/uB-filters
+! Expires: 1 days
+
+!#include sites/filmweb.txt
+!#include sites/rutracker.txt
+!#include sites/opensubtitles.txt
+!#include sites/o2.txt
+!#include sites/misc.txt
